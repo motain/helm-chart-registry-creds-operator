@@ -1,0 +1,7 @@
+# dummy value here to fit the ArgoCd ApplicationSet pattern we are using
+key: value
+
+#additionallabels
+additionallabels:
+  tribe: platform
+  squad: cloud-runtime
