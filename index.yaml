@@ -3,6 +3,16 @@ entries:
   registry-creds-operator:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-10-16T13:19:34.782444725Z"
+    description: A Helm chart for the registry-creds operator
+    digest: f585372c8cd9dafc4baac3c364f737d1a03d25739f0572e98466011fbfbf4a35
+    name: registry-creds-operator
+    type: application
+    urls:
+    - https://github.com/motain/helm-chart-registry-creds-operator/releases/download/registry-creds-operator-0.1.2/registry-creds-operator-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-09-06T11:19:32.507364371Z"
     description: A Helm chart for the registry-creds operator
     digest: b9aae606761a98ec70f0e9e804196380c3525cfc9807c56843f07d9978befedc
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/motain/helm-chart-registry-creds-operator/releases/download/registry-creds-operator-0.1.1/registry-creds-operator-0.1.1.tgz
     version: 0.1.1
-generated: "2024-09-17T11:14:04.580278973Z"
+generated: "2024-10-16T13:19:34.782457618Z"
