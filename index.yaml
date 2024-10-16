@@ -3,16 +3,6 @@ entries:
   registry-creds-operator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-17T11:14:04.580270407Z"
-    description: A Helm chart for the registry-creds operator
-    digest: b73ff918f20fbb4af31480de490801e37a504a9dcbef5376f43013565b8afb8c
-    name: registry-creds-operator
-    type: application
-    urls:
-    - registry-creds-operator-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v2
-    appVersion: 1.16.0
     created: "2024-09-06T11:19:32.507364371Z"
     description: A Helm chart for the registry-creds operator
     digest: b9aae606761a98ec70f0e9e804196380c3525cfc9807c56843f07d9978befedc
