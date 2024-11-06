@@ -6,5 +6,5 @@ metadata:
 {{- if eq .Values.env "prod" }}
     eks.amazonaws.com/role-arn: arn:aws:iam::706922411989:role/registry-creds-operator
 {{- else }}
-    eks.amazonaws.com/role-arn: arn:aws:iam::803022518328:role/registry-creds-operator
+    eks.amazonaws.com/role-arn: arn:aws:iam::007554613773:role/registry-creds-operator
 {{- end }}
